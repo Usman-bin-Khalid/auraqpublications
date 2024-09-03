@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199654667948",
+    "project_id": "bulk-calculator",
+    "storage_bucket": "bulk-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199654667948:android:a9287ac902bd76f0321109",
+        "android_client_info": {
+          "package_name": "com.example.auraq_bulk_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA94gDj9izUZlTg9I7RTSeYDwYK_FMKn9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

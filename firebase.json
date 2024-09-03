@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"bulk-calculator","appId":"1:199654667948:android:a9287ac902bd76f0321109","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bulk-calculator","configurations":{"android":"1:199654667948:android:a9287ac902bd76f0321109","ios":"1:199654667948:ios:ef2879375d46f6e7321109"}}}}}}
